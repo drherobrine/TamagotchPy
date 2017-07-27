@@ -83,7 +83,7 @@ timesStarted += 1
 room = 0
 
 while True:
-    #saveData()
+    saveData()
     if room == 0:
         print("Room: Bedroom")
     elif room == 1:
